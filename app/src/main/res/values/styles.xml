@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Texto_introductorio">Texto_introductorio
+        <item name="android:textSize">@dimen/size</item>
+    </style>
+
+    <style name="Background_">Background_
+        <item name="android:background">@drawable/mosa3</item>
+    </style>
+
+    <style name="Botones_menu">Botones_menu
+        <item name="android:width">30dp</item>
+    </style>
+
+    <style name="playstop">playstop
+       <item name="android:width">30dp</item>
+       <item name="android:height">30dp</item>
+    </style>
+
+</resources>
